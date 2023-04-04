@@ -11,6 +11,9 @@ This C++ program uses the WinSock2 libaray to create a UDP scoket between two co
  Another key feature is that Tic Tac Toe will kepp track of who is playing who by logging the IP address of the player and when the program recives a UDP datagram it will compare it to the IP address in a varible in the program and if the IP address match Tic Tac Toe will continue to place marker on game board.
  
  ## How To Run Rational
+ ### Requirments
+  Visual Studio 2019-2022
+ ### Running Tic Tac Toe
   1. Clone this repo by pasting `git clone https://github.com/Joshua-Sutton/Tic-Tac-Toe.git` into terminal
   2. Open and new Visual Studio project 
   3. Import the files in this repository `playTicTacToe.cpp`, `TicTacToe.cpp`, `Utilities.cpp`, and `TicTacToe.h`
