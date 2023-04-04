@@ -17,14 +17,15 @@ This C++ program uses the WinSock2 libaray to create a UDP scoket between two co
   4. Run `Crtl + F5` 
   5. Input a name in the `What is your name` input
   6. Select `1` to host a Tic Tac Toe game
-  7. Open another command propmt via `Crtl + F5' 
-  8. Select `2` to challenge someone alrealy hosting a Tic Tac Toe game
-  9. Then you will need to input your IP address in the `What is your IP address: ` box
-  10. Then you will need to input your subnet in the `What is your subnet address: ` box
-  11. Then type `y` to accept challenge 
-  12. Input a number 1 - 9 when prompted with `Where would you like to place marker: `
-  13. Keep placing markers untill you see `TIE ... boo` indicating a tie or `You lose` indicating you lost or `YOU WIN` indicating that you won the game
-  14. Then select `1` if you like to host again, or select `2` if you would like to challenge again or select `3` to quit the program
+  7. Open another command propmt via `Crtl + F5`
+  8. Input a name in the `What is your name` input
+  9. Select `2` to challenge someone alrealy hosting a Tic Tac Toe game
+  10. Then you will need to input your IP address in the `What is your IP address: ` box
+  11. Then you will need to input your subnet in the `What is your subnet address: ` box
+  12. Then type `y` to accept challenge 
+  13. Input a number 1 - 9 when prompted with `Where would you like to place marker: `
+  14. Keep placing markers untill you see `TIE ... boo` indicating a tie or `You lose` indicating you lost or `YOU WIN` indicating that you won the game
+  15. Then select `1` if you like to host again, or select `2` if you would like to challenge again or select `3` to quit the program
   
   ## Example 
   
